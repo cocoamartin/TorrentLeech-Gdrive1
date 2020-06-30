@@ -14,9 +14,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "repository": "https://github.com/cocoamartin/TorrentLeech-Gdrive1",
   "success_url": "https://t.me/torrentleechgdrivesupport",
-  "website": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "website": "https://github.com/cocoamartin/TorrentLeech-Gdrive1",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
